@@ -1,0 +1,7 @@
+Hardware
+
+    Parallax Boe-Bot
+    2 x Servo Motors [pins 12 and 13]
+    2 x Wire Whiskers [pins 5 and 7]
+    2 x Red LEDs (with suitable resistors as in the Student Guide) [pins 1 and 10]
+    Piezo Speaker [pin 4]
