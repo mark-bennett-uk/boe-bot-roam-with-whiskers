@@ -1,4 +1,5 @@
-# Parallax Boe-Bot roam with whiskers to avoid obstacles.
+# boe-bot-roam-with-whiskers
+Parallax Boe-Bot roam with whiskers to avoid obstacles.
 
 Hardware
 
